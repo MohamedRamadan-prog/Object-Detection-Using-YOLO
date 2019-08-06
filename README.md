@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/53750465/62553615-f0106e00-b86f-11e9-99a6-6e488eaf5f75.png)
 
 
-Steps to use the YOLO for detection:
+# steps to use the YOLO for detection:
 I) Resizing the input image to 448x448
 II) Running a single convolutional network on the image
 III) Thresholding the resulting detections by the model’s confidence
